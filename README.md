@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-end em formação`**
 
-Me chamo Eduardo Thomazini Migliorini, tenho 21 anos e sou natural do Paraná. Atualmente estou estudando e desenvolvendo projetos com foco em front-end utilizando HTML, CSS, JavaScript e PHP. 🚀
+Me chamo Eduardo Thomazini Migliorini, tenho 21 anos e sou natural do Paraná. Atualmente estou cursando o último ano de ADS e desenvolvendo projetos com foco em front-end utilizando HTML, CSS, JavaScript e PHP. 🚀
 
 <p align="left">
     <a href="https://github.com/EduardoThomazini?tab=repositories&sort=stargazers">
